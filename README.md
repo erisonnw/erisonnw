@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Eryx Kleos
+# 👨‍💻 erisonnw
 
 **Nerd • Software Engineer**
 
@@ -130,5 +130,5 @@
 ---
 
 <div align="center">
-  <p><i>✨ Feito com sangue, suor e ponteiros nulos ✨</i></p>
+  <p><i>:*</i></p>
 </div>
