@@ -10,44 +10,6 @@
 
 ---
 
-## 🛠️ Skills
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🇨 C</h3>
-      <p>Avançado | Advanced</p>
-      <p><code>███████████████████░ 95%</code></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔌 Assembly x86</h3>
-      <p>Mediano | Intermediate</p>
-      <p><code>███████████░░░░░░░░░ 55%</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚡ Zig</h3>
-      <p>Avançado | Advanced</p>
-      <p><code>██████████████████░░ 90%</code></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🦀 Rust</h3>
-      <p>Bom | Proficient</p>
-      <p><code>███████████████░░░░░ 75%</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>🐍 Python</h3>
-      <p>Bom | Proficient</p>
-      <p><code>██████████████░░░░░░ 70%</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🏷️ Tags
 
 <p align="center">
